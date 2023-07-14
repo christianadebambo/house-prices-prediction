@@ -1,6 +1,6 @@
 # House Prices Prediction 
 
-Predict house prices using advanced regression techniques 
+Predict house prices using LassoCV + XGBoost
 
 Dataset taken from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
