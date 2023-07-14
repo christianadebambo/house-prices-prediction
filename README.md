@@ -5,7 +5,7 @@
 The project has the following structure:
 - `notebook/`: `.ipynb` Colab-friendly notebook with model training
 - `input/`: input data
-- `output/`: csv file with predicted values exported from the notebooks
+- `output/`: csv file with predicted values exported from the notebook
 
 
 ## Working with the repo
