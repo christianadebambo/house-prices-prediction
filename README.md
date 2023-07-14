@@ -1,5 +1,8 @@
 # House Prices Prediction 
 
+Predict house prices using advanced regression techniques 
+Dataset taken from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
 ## Project structure
 
 The project has the following structure:
