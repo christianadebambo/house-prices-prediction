@@ -27,5 +27,3 @@ To use this code, follow these steps:
 - Download the training and test datasets from the Kaggle competition page.
 - Place the CSV files in the appropriate directory or update the file paths in the code accordingly.
 - Execute the code to preprocess the data, train the models, and make predictions
-
-Please note that this code serves as a starting point and may require further customization or modifications based on your specific requirements and dataset.
